@@ -1,0 +1,42 @@
+{
+	"facemask": {
+		"face-mask": {
+			"file": "face-mask.jpg",
+			"resize": {"w": 1024, "h": 1024}
+		},
+		"background": {
+			"file": "screenshot.png",
+			"resize": {"w": 1024, "h": 512}
+		},
+		"logo": {
+			"file": "word-logo.png",
+			"resize": {"w": 1024, "h": 512}
+		}
+	},
+	"ar-stickers": {
+		"stickerA": {
+			"file": "designA(1).png",
+			"resize": {"w": 1024, "h": 1024}
+		},
+		"stickerB": {
+			"file": "designB(1).png",
+			"resize": {"w": 1024, "h": 1024}
+		},
+		"stickerC": {
+			"file": "designC(1).png",
+			"resize": {"w": 1024, "h": 1024}
+		},
+		"icon1": {
+			"file": "icon_1.png",
+			"resize": {"w": 128, "h": 128}
+		},
+		"icon2": {
+			"file": "icon_2.png",
+			"resize": {"w": 128, "h": 128}
+		},
+		"icon3": {
+			"file": "icon_3.png",
+			"resize": {"w": 128, "h": 128}
+		}
+	}
+}
